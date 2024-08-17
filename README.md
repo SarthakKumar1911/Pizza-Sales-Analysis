@@ -13,20 +13,24 @@ The dataset used in this project includes sales transactions from a pizzeria, de
 - **Microsoft Word & PDF**: Reports documenting the analysis process and results.
 
 ## Repository Structure
-Pizza-Sales-Analysis/  
-├── data/  
-│   └── pizza_sales.csv               &nbsp;&nbsp;&nbsp;&nbsp;  # Raw data file  
+
+```
+Pizza-Sales-Analysis/
+├── data/
+│   └── pizza_sales.csv                # Raw data file  
 ├── reports/  
-│   ├── SQL_queries_REPORT.docx       &nbsp;&nbsp;&nbsp;&nbsp;  # Detailed analysis report  
-│   └── SQL_queries.pdf               &nbsp;&nbsp;&nbsp;&nbsp;  # PDF version of the report  
+│   ├── SQL_queries_REPORT.docx        # Detailed analysis report  
+│   └── SQL_queries.pdf                # PDF version of the report  
 ├── scripts/  
-│   └── Pizza_sales_queries.sql       &nbsp;&nbsp;&nbsp;&nbsp;  # SQL scripts for the analysis  
+│   └── Pizza_sales_queries.sql        # SQL scripts for the analysis  
 ├── images/  
-│   ├── ss1.png                       &nbsp;&nbsp;&nbsp;&nbsp;  # Screenshot 1 of the dashboard  
-│   └── ss2.png                       &nbsp;&nbsp;&nbsp;&nbsp;  # Screenshot 2 of the dashboard  
+│   ├── ss1.png                        # Screenshot 1 of the dashboard  
+│   └── ss2.png                        # Screenshot 2 of the dashboard  
 ├── dashboard/  
-│   └── pizza_project.pbix            &nbsp;&nbsp;&nbsp;&nbsp;  # Power BI dashboard file  
-└── README.md                         &nbsp;&nbsp;&nbsp;&nbsp;  # Project overview and documentation
+│   └── pizza_project.pbix             # Power BI dashboard file  
+└── README.md                          # Project overview and documentation
+```
+
 
 ## Key Insights
 
